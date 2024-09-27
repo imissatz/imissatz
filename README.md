@@ -1,10 +1,6 @@
 <h1 align="center">Hello there!!👋, I'm Issa Masala</h1>
 <h3 align="center">Professional Software developer with an interest in building Machine-learning models</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imissatz&label=Profile%20views&color=0e75b6&style=flat" alt="imissatz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imissatz" alt="imissatz" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **building machine-learning models**
@@ -14,6 +10,8 @@
 - 📫 How to reach me **issamasalatz@gmail.com**
 
 - ⚡ Fun fact **I'm actually learning**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imissatz" alt="imissatz" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
