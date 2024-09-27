@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **building machine-learning models**
 
-- 🌱 I’m currently learning **about building machine-learning models and Django**
+- 🌱I am actively expanding my expertise **in building machine learning models and developing web applications using Django.**
 
 - 📫 How to reach me **issamasalatz@gmail.com**
 
